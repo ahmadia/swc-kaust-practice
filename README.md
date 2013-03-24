@@ -1,4 +1,5 @@
 swc-kaust-practice
 ==================
-blabla
+This is a README file 
+
 Add a newline at end of file \n 
